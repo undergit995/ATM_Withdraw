@@ -39,7 +39,6 @@ function App() {const [balance, setBalance] = useState(1000);
           </p>
         )}
 
-        {/* Withdraw */}
         <div className="mb-6">
           <p className="text-xs font-semibold text-gray-400 uppercase tracking-widest mb-2">Withdraw</p>
           <div className="flex items-center border border-gray-200 rounded-xl px-3 py-2 mb-3">
